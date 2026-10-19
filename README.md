@@ -1,1 +1,1 @@
-# MyStickers
+# my-stickers
